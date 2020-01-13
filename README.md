@@ -2,7 +2,7 @@
 
 This project is inspired by https://github.com/gocn/news
 It is maintained by volunteer editors who are interested in latest cloud naitve tech trend.
-We seclet 3 cloud native news everyday and spread them in cloud naitve chat groups.
+We select 3 cloud native headlines everyday and spread them in cloud naitve chat groups.
 
 
 # How to contribute
