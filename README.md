@@ -1,4 +1,4 @@
-# About Cloud Native Daily Digest 云原生每日新闻
+# About Cloud Native Daily Digest 云原生技术日报
 
 This project is inspired by https://github.com/gocn/news
 It is maintained by volunteer editors who are interested in latest cloud naitve tech trend.
